@@ -1,2 +1,2 @@
-# jprofile-agent
-jprofile-agent
+# jprofiler-agent
+jprofiler-agent
